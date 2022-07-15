@@ -70,3 +70,4 @@ To check the IMAP account for new messages and create tickets out of these messa
 ```
 $ ./manage.py get_email
 ```# Ticketing-System
+# Ticketing-System
